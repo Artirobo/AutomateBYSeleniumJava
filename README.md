@@ -1,7 +1,6 @@
 # AutomateBYSeleniumJava
 Automate the page by selenium and Java  sample project 
 
-
 Created a Schema for all files with  sqx/src/** 
 
 How can We create a xsd file :
@@ -39,11 +38,11 @@ Eg:
       </xsd:sequence>
      </xsd:extension>
     </xsd:complexContent>
-   </xsd:complexType>
-```
-- copy ApexPage complexType and paste with inside element name ApexPage
+   </xsd:complexType>```
 
-``` <xs:element name="ApexPage">
+- copy ApexPage complexType and paste with inside element name ApexPage
+```
+  <xs:element name="ApexPage">
         Paste the complexType  which you have copy 
      </xs:element>
 ```
